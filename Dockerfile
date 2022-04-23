@@ -1,4 +1,4 @@
-FROM public.ecr.aws/amazonlinux/amazonlinux:2.0.20220419.0
+FROM amazonlinux:2.0.20220419.0
 
 RUN yum install -y git-core gcc openssl-devel
 
