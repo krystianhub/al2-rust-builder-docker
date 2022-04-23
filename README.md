@@ -1,4 +1,4 @@
-# Amazon Linux 2 Rust Docker image
+# Amazon Linux 2 Rust Builder Docker
 
 [![Docker CI](https://github.com/krystianhub/al2-rust-builder-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/krystianhub/al2-rust-builder-docker/actions/workflows/docker-publish.yml)
 
