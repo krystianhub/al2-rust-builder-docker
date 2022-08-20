@@ -1,4 +1,4 @@
-FROM amazonlinux:2.0.20220606.1
+FROM amazonlinux:2.0.20220719.0
 
 RUN yum install -y git-core gcc openssl-devel
 
